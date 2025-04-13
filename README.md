@@ -124,23 +124,6 @@ The ensemble approach yielded our best results:
 - PyTorch 1.9+ (optional, for some models)
 - CUDA-compatible GPU (recommended)
 
-### Setup
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/Prithvicy/ParkinsonsDetection.git
-   cd ParkinsonsDetection
-   ```
-
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Download pretrained models (optional):
-   ```
-   python download_models.py
-   ```
 
 ### Running the Pipeline
 
@@ -183,14 +166,4 @@ The ensemble approach yielded our best results:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
 
-If you use this work in your research, please cite:
-```
-@article{parkinsons_detection_mri,
-  title={Parkinson's Disease Detection via T1 2D MRI Using Convolutional Neural Networks and Ensemble Learning},
-  author={[Author Names]},
-  journal={[Journal Name]},
-  year={2025}
-}
-```
