@@ -157,7 +157,7 @@ The ensemble approach yielded our best results:
 
 ## Acknowledgements
 
-- [Dataset Source]
+- PPMI
 - TensorFlow and PyTorch communities
 - Medical imaging preprocessing libraries
 - Collaborating medical professionals for domain expertise
